@@ -50,6 +50,11 @@ Bézier curve 컨벡스 최적화 기반 충돌회피 알고리즘 모듈을 개
 | ---------- | ---------------------------------------------- |
 | ubuntu 22.04 | ROS2 Humble  |
 
+### 3.3 Cooperation
+| ![ubuntu](https://github.com/dkkim528/UROP/blob/main/ubuntu.png)  | ![ROS2](https://github.com/dkkim528/UROP/blob/main/ros2.png)    |
+| ---------- | ---------------------------------------------- |
+| Gitlab | Notion  |
+
 ## 4. Project Structure
 ```shell
 src/rplidar_ros
