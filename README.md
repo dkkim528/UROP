@@ -28,5 +28,26 @@ Bézier curve 컨벡스 최적화 기반 충돌회피 알고리즘 모듈을 개
 | ubuntu 22.04 | ROS2 Humble  |
 
 ## 4. Project Structure
-
+src/rplidar_ros
+├── CHANGELOG.rst
+├── CMakeLists.txt
+├── config
+│   └── params.yaml
+├── debian
+│   
+├── include
+│
+├── build
+│   ├── my_cartographer_2d.launch.py
+│   ├── __pycache__
+│   │   └── rplidar_with_pointcloud.launch.cpython-310.pyc
+│   ├── rplidar_a1_launch.py
+│ 
+└── src
+    ├── rplidar_ros
+    ├── nav2_navigation
+    .
+    .
+    .
+    
 ## 5. Coding Convention
