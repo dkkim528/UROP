@@ -22,6 +22,29 @@ Bézier curve 컨벡스 최적화 기반 충돌회피 알고리즘 모듈을 개
 | ![Python](https://github.com/dkkim528/UROP/blob/main/py.png)    | ![C++](https://github.com/dkkim528/UROP/blob/main/C%2B%2B.png) |
 | ---------- | ---------------------------------------------- |
 | Python | C++  |
+
+- 파이썬 스펙
+```shell
+  Python==3.6.7
+  Cython
+  dlib==19.8.1
+  face-recognition==1.3.0
+  numpy==1.15.0
+  torch==1.7.0+cu101
+  torchvision==0.8.1+cu101
+  tensorflow==1.13.1
+  tensorflow-gpu==1.13.1
+  tqdm
+  Keras==2.3.1
+  opencv-python
+  scikit-learn==0.21.2
+  scipy==1.4.1
+  Pillow
+  visdom
+  Nibabel
+  GTTS
+```
+
 ### 3.2 Development Environment
 | ![ubuntu](https://github.com/dkkim528/UROP/blob/main/ubuntu.png)  | ![ROS2](https://github.com/dkkim528/UROP/blob/main/ros2.png)    |
 | ---------- | ---------------------------------------------- |
