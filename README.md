@@ -23,6 +23,6 @@ Bézier curve 컨벡스 최적화 기반 충돌회피 알고리즘 모듈을 개
 | ---------- | ---------------------------------------------- |
 | Python | C++  |
 ### 3.2 Development Environment
-| ![Python](https://github.com/dkkim528/UROP/blob/main/py.png)    | ![C++](https://github.com/dkkim528/UROP/blob/main/C%2B%2B.png) |
+| ![C++](https://github.com/dkkim528/UROP/blob/main/C%2B%2B.png)  | ![ROS2](https://github.com/dkkim528/UROP/blob/main/ros2.png)    |
 | ---------- | ---------------------------------------------- |
 | ubuntu 22.04 | ROS2 Humble  |
