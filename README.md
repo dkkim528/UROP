@@ -10,11 +10,11 @@ Bézier curve 컨벡스 최적화 기반 충돌회피 알고리즘 모듈을 개
 최현준
 
 서대환
-
 ### - Algorithm
 이송하(L)
 
 이윤재
-
 ### - Control
 강현민(L)
+
+## 3. Technology Stack
