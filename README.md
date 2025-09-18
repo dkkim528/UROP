@@ -51,7 +51,7 @@ Bézier curve 컨벡스 최적화 기반 충돌회피 알고리즘 모듈을 개
 | ubuntu 22.04 | ROS2 Humble  |
 
 ### 3.3 Cooperation
-| ![ubuntu](https://github.com/dkkim528/UROP/blob/main/gitlab.png)  | ![ROS2](https://github.com/dkkim528/UROP/blob/main/notion.png)    |
+| <img src="https://github.com/dkkim528/UROP/blob/main/gitlab.png" width="200" height="200"/>  | ![ROS2](https://github.com/dkkim528/UROP/blob/main/notion.png)    |
 | ---------- | ---------------------------------------------- |
 | Gitlab | Notion  |
 
