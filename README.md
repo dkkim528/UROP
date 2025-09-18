@@ -53,3 +53,6 @@ src/rplidar_ros
 ```
     
 ## 5. Coding Convention
+- 상수 : 영문 대문자 + 스네이크 케이스
+
+- 변수 & 함수 : 카멜케이스
