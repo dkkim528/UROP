@@ -18,6 +18,7 @@ Bézier curve 컨벡스 최적화 기반 충돌회피 알고리즘 모듈을 개
 강현민(L)
 
 ## 3. Technology Stack
+### 3.1 Language
 | ![Python](https://github.com/dkkim528/UROP/blob/main/py.png)    | ![C++](https://github.com/dkkim528/UROP/blob/main/C%2B%2B.png) |
 | ---------- | ---------------------------------------------- |
 | Python | C++  |
