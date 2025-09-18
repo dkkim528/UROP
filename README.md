@@ -4,12 +4,18 @@ Bézier curve 컨벡스 최적화 기반 충돌회피 알고리즘 모듈을 개
 
 ## 2. 프로젝트 멤버
 
-- H/W
+### - H/W
+
 김동건
 최현준
 서대환
-- Algorithm
+
+### - Algorithm
+
+
 이송하
 이윤재
-- Control
+
+### - Control
+
 강현민
